@@ -1,2 +1,2 @@
 # score-keeper
-web app that update your scores for certain game
+web app that update your scores for a certain game
